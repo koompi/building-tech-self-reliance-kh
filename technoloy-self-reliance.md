@@ -45,13 +45,37 @@ In the world of open source, our approach should be one of complete openness. We
 
 Open source software maintainers, whether individual or a group, can thoroughly review pull requests and decide whether to integrate them or not. Contributors still retain the right to fork the base software and incorporate their contributions if they wish to see how their work fits. This approach ensures security for the core system while simultaneously fostering innovation beyond its boundaries. There are no strings attached or barriers blocking the path to innovation.
 
-## What are in the country
+## Technology Initiatives in the Country
 
-Operating System by KOOMPI. 
+In Cambodia, several technology initiatives are making noticeable progress:
 
-- KOOMPI OS:KOOMPI Enterprise Operating System
-- KramaOS: a Community Version started by KOOMPI
+### Operating Systems by KOOMPI:
 
-Laptop and computer production by KOOMPI 
+- **KOOMPI OS:** This is the KOOMPI Enterprise Operating System.
 
-Hardware (IoT based) and software design by others such as ArrowDot, Quantum Engineering and Manufactoring
+- **KramaOS:** A community version initiated by KOOMPI.
+
+### Laptops and Computer Production by KOOMPI:
+
+- KOOMPI is actively involved in the production of laptops and computers such as mini-PC and other electronics for R&D purposes.
+
+- KOOMPI: In addition to its involvement in laptops and computers, KOOMPI is also expanding into PCB and PCBA design and manufacturing, as well as electronic case production in Cambodia.
+
+### Hardware (IoT-Based) and Software Design:
+
+- **ArrowDot:** Specializes in IoT-based hardware and software design.
+
+- **Quantum Engineering and Manufacturing:** metal fabrication manufacturer. 
+
+While these initiatives are notable, there are also various other projects and endeavors in the country that would require in-depth study to fully understand their scope and impact.
+
+In summary, Cambodia possesses a wealth of resources and accumulated experience, which positions it well to embark on the development of more sophisticated technology products for its own needs and beyond.
+
+# Roadmap and Suggestion 
+
+1. Decide on what solution to focus our energy on.
+
+For example, administration applications such MS Office are still needed in orgnization and enterprise. The open source alternative of that is about 90% done, we only need to fix Khmer language compatibility such as more variety of Khmer fonts and an improvement of some minor UI would be sufficient to replace MS Office in any of our organization. 
+
+In the case of compatibility, it is already solved. On top of that, we could also open a local cloud-based version of office online for organization to use at small fees or self-hosted for their own used.
+

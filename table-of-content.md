@@ -1,11 +1,10 @@
-# TechCambodia 2025-2040: Paving the Way for Tech Self-Reliance
+# Tech Self-Reliant 2040: Paving the Way for Tech Self-Reliance
 
 ## Table of Contents
 
 1. **Introduction**
    - Background and Context
-   - Objectives of the Concept Paper
-   - Structure of the Paper
+   - Objectives
 
 **1. Cambodia's Technological Landscape**
    - *1.1. Current Technological Status*
