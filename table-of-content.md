@@ -1,3 +1,5 @@
+[this paper isn't done]
+
 # Tech Self-Reliant 2040: Paving the Way for Tech Self-Reliance
 
 ## Table of Contents

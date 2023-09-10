@@ -1,5 +1,25 @@
 # Building a Self-Reliant Technological Nation
 
+## Summary
+
+Cambodia aims to become a self-reliant technological nation, focusing on hardware, firmware, operating systems (OS), and applications. The strategy involves gradually advancing in each area.
+
+**Hardware:** Cambodia will start by designing components locally and outsourcing manufacturing when necessary. This approach ensures progress and builds local expertise.
+
+**Firmware & RISC-V:** Developing firmware, particularly based on RISC-V architecture, is a priority. It empowers chip independence and technological progress.
+
+**Operating Systems:** Cambodia will leverage existing platforms like KOOMPI's KramaOS and KOOMPI OS. Specialized OS builds for mobile and server applications are being explored.
+
+**Applications:** The focus includes Khmer-friendly alternatives to software like MS Office and enhancing existing solutions. Cambodia aims to foster a thriving open-source community.
+
+**Hardware & Components:** While China dominates electronics manufacturing, Cambodia eyes becoming an attractive alternative hub. Its strategic location and diplomatic ties make it ideal for chip and computer manufacturing.
+
+**Building an Electronics Assembly and Manufacturing Powerhouse:** Cambodia will begin with software development and gradually set up assembly facilities. It aims to meet local demands, encouraging tech-savvy individuals and specialized electronics zones.
+
+This journey towards self-reliance may have challenges, but with a dedicated workforce, ample funding, and an open-source approach, Cambodia aspires to secure its place in the global technology landscape.
+
+## Background
+
 A strong nation is one that can rely on itself in all aspects to meet the needs of its people. Furthermore, it can export any surplus resources or capabilities to other countries in need. 
 
 Cambodia currently possesses a surplus of low-skilled labor, which we export to Thailand, Korea, Japan, and other nations. However, this export of labor, while beneficial for our economy, may not be the most effective approach. If Cambodia could transform these workforces into skilled individuals capable of developing high-demand, high-tech products and services, which we could then sell, thus generating higher value.
@@ -18,7 +38,8 @@ An **operating system** holds a crucial role in computing, yet it often goes unn
 
 **Applications** are the final components that utilize the three aforementioned elements to create task-specific programs. As the number of applications multiplies, they can work together on an operating system to form an application platform, as exemplified by platforms like Facebook, Grab, WeChat, Telegram, and more.
 
-Building such an ambitious goal wouldn't have been possible two to three decades ago without investing billions of dollars. Even with significant spending, the chances of success would have been slim. Fortunately, in the present day, we can achieve the mission of technological self-reliance if we meet two or three critical factors:
+Building such an ambitious goal wouldn't have been possible two to three decades ago without investing billions of dollars. Even with significant spending, the chances of success would have been slim. Fortunately, in the present day, we can achieve the mission of technological self-reliance. If we meet two or three critical factors:
+
 1. A committed workforce and a supportive community of users.
 2. Adequate funding to incentivize the workforce and foster community development.
 3. A willingness to build and utilize open source solutions to our advantage.
