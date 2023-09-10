@@ -162,14 +162,18 @@ As local demands are addressed, we anticipate a growing population of tech-savvy
 
 Over time, this ecosystem will organically grow, evolving into a self-organized and thriving electronics manufacturing powerhouse.
 
-# Summary 
+**Conclusion**
 
-In our quest to become a prominent force in electronics assembly and manufacturing, we're putting a significant focus on software development. This includes creating and maintaining operating systems and applications, driven by Cambodian tech enthusiasts, our community, and budding startups. At the same time, we're tapping into China's existing component manufacturing capabilities.
+Cambodia's journey to becoming a self-reliant technological nation is marked by a strategic approach encompassing hardware, firmware, operating systems, and applications. By nurturing local expertise and leveraging open-source solutions, Cambodia seeks to overcome challenges and secure a prominent place in the global technology landscape.
 
-This strategic approach lets us allocate a substantial part of our technology development budget to enhance sophistication and user-friendliness, with the aim of widespread adoption. As we make progress, we'll gradually establish our assembly facilities.
+As the nation progresses in each area, there's a commitment to building a thriving open-source community that fosters innovation and collaboration. Initiatives like KOOMPI's operating systems and expanding into hardware and software design further strengthen Cambodia's technological capabilities.
 
-Our primary aim is to meet the local demand for electronics, serving businesses, government bodies, and the general public. Once we've successfully met local needs, we'll thoughtfully expand into international markets.
+In the realm of application development, the focus is on specific solutions and enhancing Khmer-friendly alternatives. Leveraging existing platforms like KOOMPI's KramaOS and KOOMPI OS minimizes development costs for operating systems while exploring specialized OS builds for mobile and server applications.
 
-As we fulfill local demand, we foresee a growing community of tech-savvy individuals across various sectors. This lays the groundwork for creating specialized electronics zones, where local startups from diverse fields collaborate. These collaborations may involve hardware components, business software applications, and more.
+The pursuit of firmware development, particularly RISC-V-based solutions, promises chip independence and technological progress. Cambodia aims to empower its workforce to design and manufacture chips in the future.
 
-With time, this ecosystem will naturally expand and evolve, ultimately evolving into a self-sustaining and thriving electronics manufacturing powerhouse."
+In addressing hardware and component manufacturing, Cambodia aims to position itself as an attractive alternative to China. Its strategic location and commitment to sustainability create a unique opportunity to set new standards in electronic manufacturing.
+
+By concentrating on software development and gradually establishing assembly facilities, Cambodia plans to cater to local electronics demands before venturing into foreign markets. The growth of tech-savvy individuals and specialized electronics zones will contribute to Cambodia's transformation into a self-organized electronics manufacturing powerhouse.
+
+While the path ahead may have challenges, Cambodia's dedication, ample funding, and open-source approach lay a strong foundation for a promising technological future.
