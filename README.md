@@ -162,7 +162,7 @@ As local demands are addressed, we anticipate a growing population of tech-savvy
 
 Over time, this ecosystem will organically grow, evolving into a self-organized and thriving electronics manufacturing powerhouse.
 
-**Conclusion**
+# Conclusion
 
 Cambodia's journey to becoming a self-reliant technological nation is marked by a strategic approach encompassing hardware, firmware, operating systems, and applications. By nurturing local expertise and leveraging open-source solutions, Cambodia seeks to overcome challenges and secure a prominent place in the global technology landscape.
 
