@@ -71,11 +71,16 @@ While these initiatives are notable, there are also various other projects and e
 
 In summary, Cambodia possesses a wealth of resources and accumulated experience, which positions it well to embark on the development of more sophisticated technology products for its own needs and beyond.
 
-# Roadmap and Suggestion 
+# Roadmap and Suggestions
 
-1. Decide on what solution to focus our energy on.
+1. **Application Development:**
+   - **Focus on Specific Solutions:** Consider concentrating efforts on developing specific solutions. For instance, administrative applications like MS Office are still essential in organizations and enterprises. Open-source alternatives to these applications are already 90% complete. To replace MS Office in our organizations, we primarily need to address Khmer language compatibility issues, such as providing a wider variety of Khmer fonts and improving some minor user interface elements.
+   - **Compatibility Enhancement:** Address Khmer language compatibility issues, as these are already partially resolved. Additionally, consider creating a local cloud-based version of office applications for organizations to use at a minimal cost or for self-hosting.
 
-For example, administration applications such MS Office are still needed in orgnization and enterprise. The open source alternative of that is about 90% done, we only need to fix Khmer language compatibility such as more variety of Khmer fonts and an improvement of some minor UI would be sufficient to replace MS Office in any of our organization. 
+2. **Operating System Development:**
+   - **Leverage KOOMPI's KramaOS and KOOMPI OS:** Build upon KOOMPI's existing community version, KramaOS, and the enterprise version, KOOMPI OS. Both versions are based on Linux, making them fully open source and globally supported by open source contributors. This approach minimizes development costs and maintenance efforts.
+   - **Explore Specific OS Builds:**
+     - *Mobile OS:* Develop a mobile operating system that can connect to monitors to display a full Linux desktop OS. Unlike Samsung's DeX, this OS would provide the full power and functionality of a desktop OS on a larger screen.
+     - *Server OS:* Create a specialized server operating system tailored for running our own cloud/server infrastructure.
 
-In the case of compatibility, it is already solved. On top of that, we could also open a local cloud-based version of office online for organization to use at small fees or self-hosted for their own used.
-
+Understanding the inner workings of the operating system and having the skilled workforce to customize it to our specific needs will open up numerous opportunities for technological advancement and progress.
