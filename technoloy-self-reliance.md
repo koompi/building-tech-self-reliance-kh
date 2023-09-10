@@ -28,6 +28,7 @@ The third factor is the most crucial. If we do not prioritize open source usage,
 Leveraging open source to build and customize according to our specific needs is one of the most powerful strategies. Today, with the internet facilitating self-taught and peer-to-peer learning, our builders can take on missions from design to production without the necessity of formal education or face-to-face interactions with experts. While traditional education is valuable, creating an environment within educational institutions that fosters such development could accelerate progress by a factor of 100 or more.
 
 ## Notes: 
+
 - A **Hardware** is refers to the physical, tangible components of a computing system. These are the physical devices and circuits that make up a computer or any electronic device.
 
 - A **Firmware** is a type of software that is permanently or semi-permanently stored in hardware components. It serves as an intermediary layer between the hardware and the software (operating system and applications) and provides low-level control and functionality. 
@@ -36,9 +37,13 @@ Leveraging open source to build and customize according to our specific needs is
 
 - A **Software Application**, often referred to simply as an "application" or "app," is a computer program or a set of programs designed to perform specific tasks or functions for the user. These applications are designed to run on various computing devices, such as personal computers, smartphones, tablets, servers, and more. 
 
-## Build a successful open source community in Cambodia
+## Building a Thriving Open Source Community in Cambodia
 
+The development of successful open-source projects often begins with a small group of individuals, sometimes even a single person, driven by specific needs. These projects then allow the community to grow organically, with some nurturing along the way.
 
+In the world of open source, our approach should be one of complete openness. We should readily welcome code forking and encourage comments and feedback via pull requests from both known and unknown contributors. Our focus should be less on who contributes and more on what contributions bring to the table. What truly matters is the functionality and seamless integration of the code with the existing software.
+
+Open source software maintainers, whether individual or a group, can thoroughly review pull requests and decide whether to integrate them or not. Contributors still retain the right to fork the base software and incorporate their contributions if they wish to see how their work fits. This approach ensures security for the core system while simultaneously fostering innovation beyond its boundaries. There are no strings attached or barriers blocking the path to innovation.
 
 ## What we have in the country today
 
