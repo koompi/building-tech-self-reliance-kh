@@ -25,7 +25,7 @@
    - *4.2. Cultural Preservation in the Digital Age*
    
 **5. Towards Technology Self-Reliance**
-   - *5.1. The Vision of TechCambodia 2025-2035*
+   - *5.1. The Vision of TechCambodia 2025-2040*
    - *5.2. Key Milestones and Objectives*
    
 **6. Open Source Adoption**
@@ -81,7 +81,7 @@
    
 **12. Conclusion**
    - *12.1. Summary of Key Points*
-   - *12.2. The Path Forward: Realizing TechCambodia 2025-2035*
+   - *12.2. The Path Forward: Realizing TechCambodia 2025-2040*
    
 **13. References**
    - *13.1. Citing Sources and References Used in the Paper*
