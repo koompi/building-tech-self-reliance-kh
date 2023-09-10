@@ -37,7 +37,7 @@ Leveraging open source to build and customize according to our specific needs is
 
 - A **Software Application**, often referred to simply as an "application" or "app," is a computer program or a set of programs designed to perform specific tasks or functions for the user. These applications are designed to run on various computing devices, such as personal computers, smartphones, tablets, servers, and more. 
 
-## Building a Thriving Open Source Community in Cambodia
+## Building a Thriving Open Source Community
 
 The development of successful open-source projects often begins with a small group of individuals, sometimes even a single person, driven by specific needs. These projects then allow the community to grow organically, with some nurturing along the way.
 
@@ -45,14 +45,13 @@ In the world of open source, our approach should be one of complete openness. We
 
 Open source software maintainers, whether individual or a group, can thoroughly review pull requests and decide whether to integrate them or not. Contributors still retain the right to fork the base software and incorporate their contributions if they wish to see how their work fits. This approach ensures security for the core system while simultaneously fostering innovation beyond its boundaries. There are no strings attached or barriers blocking the path to innovation.
 
-## What we have in the country today
+## What are in the country
 
 Operating System by KOOMPI. 
 
 - KOOMPI OS:KOOMPI Enterprise Operating System
-
 - KramaOS: a Community Version started by KOOMPI
 
 Laptop and computer production by KOOMPI 
 
-Hardware and software design by others such as ArrowDot, Quantum Engineering and Manufactoring
+Hardware (IoT based) and software design by others such as ArrowDot, Quantum Engineering and Manufactoring
